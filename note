@@ -10,9 +10,9 @@
                     3. To run server - node index.js
 
                     4. To install nodemon - npm i -g nodemon
-                                                            
-                                
-                                                                
+
+                    5. Install jsonwebtoken - npm i jsonwebtoken
+
                                 
                             2. Steps to Create Server
                             -------------------------
@@ -37,4 +37,16 @@
 
                     10. Parse json data in index.js
 
-                    11. 
+                    11. Middlewares - (req,res,next)=>{}
+
+                        11.1 Application Specific Middlewares
+
+                        11.2 Router Specific Middlewares
+                
+                    12. JWT Token - To Authenticate User - 
+
+                        12.1 Token Generation - sign()
+
+                        12.2 Token Validation - verify()
+
+                    13. 
